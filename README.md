@@ -1,4 +1,5 @@
-# Weaknesses Testing Tool 
+# Weaknesses Testing Framework
+
 ## Towards a Technique to Detect Weaknesses in C Programs.
 
   A testing framework to reports weaknesses in C programs.
